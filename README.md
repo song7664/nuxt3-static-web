@@ -1,2 +1,3 @@
-# supreme-octo-palm-tree
-A static rendering project
+# 使用nuxt3创建一个静态渲染的官网项目
+
+ 这个是前端项目，数据是从web api请求获得。后端项目使用的nest.js
